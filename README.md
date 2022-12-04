@@ -3,6 +3,7 @@
 ## Group Name : Khalil
 ## Group Member Details
 1.Muhammad Najmi Saniy Bin Mohd Nazul (1823617)
+2.Aftaha Ahmed (1825335)
 ## Assign task
 ## Brief Description of case study
 <p>     A-Venue-Reservation-System is a system for user to reserve venue for the conferences or seminars.
