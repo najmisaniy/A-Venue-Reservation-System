@@ -14,7 +14,12 @@
 5. Creating a function under the class Booking in booking,dart to execute the printing for allot function
 
 --Najmi Saniy--
-1. 
+1. add() funtion for user to make a new venue booking
+2. Declare local variable in booking.dart
+3. Create setter for input from user and bookRecord in main.dartin booking.dart.
+4. Create function to validate venue number, date and timeslot from user in booking.dart
+5. Create function to add new booking into bookRecord
+
 
 ## Brief Description of case study
 <p>     A-Venue-Reservation-System is a system for user to reserve venue for the conferences or seminars.
